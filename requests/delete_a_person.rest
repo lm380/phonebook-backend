@@ -1,0 +1,1 @@
+DELETE https://white-resonance-6717.fly.dev/api/persons/1
